@@ -20,3 +20,32 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+.env
+
+# Virtual environments
+venv/
+ENV/
+
+# Docker/NLTK
+nltk_data/
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db

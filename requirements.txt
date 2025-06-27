@@ -13,3 +13,8 @@ bert-extractive-summarizer==0.10.1
 # 05 language_translation
 googletrans==4.0.0-rc1
 torch==2.3.0
+
+
+# 06 fastapi app
+fastapi
+uvicorn[standard]
